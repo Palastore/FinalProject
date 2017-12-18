@@ -1,0 +1,12 @@
+NLTK, a natural language toolkit for Python. A useful package for any natural language processing.
+pip: $ pip install -U nltk
+
+stop_words, a Python package containing stop words.
+pip: $ pip install stop-words
+
+gensim, a topic modeling package containing our LDA model.
+pip: $ pip install gensim
+
+V2
+sklearn, LDA
+pip: $ pip install sklearn
